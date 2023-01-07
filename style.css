@@ -5,7 +5,7 @@ body{
 }
 /* Header section started */
 .header{
-    background-image: url(/images/banner/banner1.png);
+    background-image: url(images/banner/banner1.png);
     background-size: cover;
     width: 100%;
     height: 700px;
@@ -134,7 +134,7 @@ body{
     background-color: white;
 }
 .experience{
-    background-image: url("images/exp-bg.png");
+
     background-repeat: no-repeat;
     background-position: left;
 }
@@ -162,7 +162,7 @@ body{
     margin: 130px auto;
     width: 80%;
     height: 300px;
-    background-image: url(/images/gradient2.png), url(/images/watch.png);
+    background-image: url(images/gradient2.png), url(images/watch.png);
     background-repeat: no-repeat;
     background-size: cover;   
 }
